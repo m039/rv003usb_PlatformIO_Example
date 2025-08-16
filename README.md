@@ -1,3 +1,3 @@
 # rv003usb PlatformIO Example
 
-I've faced the issue that [rv003usb](https://github.com/cnlohr/rv003usb) isn't working with PlatformIO for me. This project shows how to fix this issue. The main point is to remove `-DCH32V00x` flag.
+I encountered an issue with [rv003usb](https://github.com/cnlohr/rv003usb) not functioning properly in PlatformIO. This project demonstrates the solution to this problem. The key resolution is to remove the `-DCH32V00x` flag from the build configuration.
